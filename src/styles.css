@@ -1,0 +1,44 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+
+h1 {
+  color: black;
+}
+
+#container {
+  align-content: center;
+}
+
+#item {
+  border: 1px solid black;
+  border-style: outset;
+  text-align: left;
+  list-style-type: none;
+  padding: 1.5rem;
+  border-radius: 1rem;
+  margin: 1rem;
+}
+
+button {
+  color: red;
+  padding: 1rem;
+  border-radius: 1rem;
+  margin: 0.5rem;
+  cursor: pointer;
+}
+
+ul {
+  padding: 1rem;
+  font-size: 16px;
+  margin: 50px;
+}
+
+#item {
+  color: blue;
+}
